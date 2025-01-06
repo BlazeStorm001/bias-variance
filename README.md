@@ -77,4 +77,4 @@ Use cross-validation to identify the best model degree.
 - Validation error serves as a good proxy for total error when the latter is not directly computable.
 
 ## Contribution
-Any improvements/corrections/feedback are always welcome. Please feel free to send a PR. Star :star the repo if you learned something new. Thanks.
+Any improvements/corrections/feedback are always welcome. Please feel free to send a PR. Star :star: the repo if you learned something new. Thanks.
