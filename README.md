@@ -74,4 +74,7 @@ Use cross-validation to identify the best model degree.
 ## Results  
 
 - The best model (polynomial degree) was determined using both the **total error** and **cross-validation error**.  
-- Validation error serves as a good proxy for total error when the latter is not directly computable.  
+- Validation error serves as a good proxy for total error when the latter is not directly computable.
+
+## Contribution
+Any improvements/corrections/feedback are always welcome. Please feel free to send a PR. Star :star the repo if you learned something new. Thanks.
